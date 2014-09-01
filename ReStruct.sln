@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReStruct", "ReStruct\ReStruct.csproj", "{BBE28509-AB90-4BDC-8159-831D10801E08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestReStruct", "TestReStruct\TestReStruct.csproj", "{48683D2B-6AA1-453E-A79A-1C69F7D6156B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBE28509-AB90-4BDC-8159-831D10801E08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBE28509-AB90-4BDC-8159-831D10801E08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBE28509-AB90-4BDC-8159-831D10801E08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBE28509-AB90-4BDC-8159-831D10801E08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48683D2B-6AA1-453E-A79A-1C69F7D6156B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48683D2B-6AA1-453E-A79A-1C69F7D6156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48683D2B-6AA1-453E-A79A-1C69F7D6156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48683D2B-6AA1-453E-A79A-1C69F7D6156B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

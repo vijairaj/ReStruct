@@ -1,0 +1,9 @@
+/Debug/
+# Directories
+bin
+debug
+
+# Files
+*.swp
+*.suo
+*.user
