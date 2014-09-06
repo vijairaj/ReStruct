@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("ReStruct")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
+[assembly: AssemblyCompany("https://github.com/vijairaj")]
 [assembly: AssemblyProduct("ReStruct")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2014")]
+[assembly: AssemblyCopyright("https://github.com/vijairaj")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
